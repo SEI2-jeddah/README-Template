@@ -42,9 +42,6 @@ List unsolved problems which would be fixed in future iterations.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 ---
 
