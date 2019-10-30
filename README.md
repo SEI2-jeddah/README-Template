@@ -1,4 +1,4 @@
-# Project Title
+# Your Project Title
 
 One Paragraph of project description goes here
 
@@ -11,9 +11,11 @@ What technologies you used that helped you build this project.
 
 ```
 Example:
-HTML
-CSS
-JavaScript, and jQuery for DOM manipulation
+
+- React
+- Bootstrap with react
+- Ajax (axios) for API
+- etc..
 ```
 
 ### Wireframes
@@ -23,6 +25,19 @@ Your step by step planning sketch of your project, that you can post them as an 
 ### User Stories
 
 A story of the project user, that explains the use of the project.
+
+```
+Example:
+
+User must be able to:
+
+- View Example
+- Blablabla
+- Search Example
+- Fine Example
+- etc..
+
+```
 
 ---
 
@@ -37,6 +52,10 @@ What strategy did you use to solve your problems.
 ### Unsolved problems
 
 List unsolved problems which would be fixed in future iterations.
+
+## APIs Used
+
+List your APIs you have used in this project and explain why did you use it.
 
 ---
 
